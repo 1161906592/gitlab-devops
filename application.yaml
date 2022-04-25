@@ -1,0 +1,5 @@
+gitlab:
+  origin: http://gitlab.cisdicloud.com.cn:8088
+dingtalk:
+  accessKeyId: "xxxx"
+  accessKeySecret: "xxxx"
